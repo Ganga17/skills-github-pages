@@ -1,1 +1,12 @@
 theme: minima
+title: skills-github-pages
+author: Ganga17
+
+# Optional: Add navigation links
+header_pages:
+  - index.md
+
+# Add external links to the nav bar
+minima:
+  social_links:
+    - { platform: Web App, url:https://prismatic-pudding-6000cb.netlify.app , title: "Open Web App" }
