@@ -9,4 +9,4 @@ header_pages:
 # Add external links to the nav bar
 minima:
   social_links:
-    - { platform: Web App, url:https://prismatic-pudding-6000cb.netlify.app , title: "Open Web App" }
+    - { platform: Web App, url:https://ganga17.github.io/skills-github-pages/ , title: "Open Web App" }
