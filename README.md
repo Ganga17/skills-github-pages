@@ -1,5 +1,10 @@
 <header>
+<title>
+  ## 🚀 Live Demo
 
+👉 [Click here to view the web app](https://my-stuedu-platform.netlify.app)
+
+</title>
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
